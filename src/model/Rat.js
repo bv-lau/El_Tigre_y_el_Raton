@@ -1,0 +1,3 @@
+class Rat extends Element{
+    
+}

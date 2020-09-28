@@ -1,0 +1,3 @@
+class Tiger extends Element{
+    
+}
